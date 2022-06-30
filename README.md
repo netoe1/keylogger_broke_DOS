@@ -12,9 +12,6 @@
 > O que esse programa é capaz é simplesmente pegar as teclas digitadas e depois gerar um log, mostrando o hora que a tecla foi apertada.
 
 </p>
-
-<br>
-
 <p>
 
 >O nome das váriaveis foram escritos em português, então se você não conhece a língua, você pode traduzir se quiser, isso não vai atrapalhar o funcionamento do programa.
@@ -22,5 +19,7 @@
 
 <h1>
 
+
+<img src = "https://myloview.com.br/adesivo-good-luck!-no-B1117AF" width = "200px"/>
 Boa sorte, por NEWCORP Team.
 </h1>
