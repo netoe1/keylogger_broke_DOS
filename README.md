@@ -20,6 +20,5 @@
 <h1>
 
 
-<img src = "https://myloview.com.br/adesivo-good-luck!-no-B1117AF" width = "200px"/>
 Boa sorte, por NEWCORP Team.
 </h1>
