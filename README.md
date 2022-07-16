@@ -1,7 +1,7 @@
 <h2 text-align="center">A simple broke keylogger, just for fun.</h2>
 
 
- > **Por favor cara, não faça coisas terríveis com esse programa. Na verdade, ele foi feito por mim para apenas testar meus conhecimentos. Não me responsabilizo por danos causados a privacidade de outras pessoas.**
+ > Por favor cara, não faça coisas <strong>TERRÍVEIS</strong> com esse programa. Na verdade, ele foi feito por mim para apenas testar meus conhecimentos. Não me responsabilizo por danos causados a <strong>privacidade de outras pessoas</strong>.
 
 <p>
 
