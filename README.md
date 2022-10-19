@@ -1,6 +1,7 @@
 <h1 text-align="center">A simple broke keylogger (DOS_VERSION), just for fun.</h1>
 
-<p><Esse vírus é feito para windows, por conta da biblioteca conio.h/p>
+<p> Esse vírus é feito para windows, por conta da biblioteca conio.h! </p>
+
  > Por favor cara, não faça coisas <strong>TERRÍVEIS</strong> com esse programa. Na verdade, ele foi feito por mim para apenas testar meus conhecimentos. Não me responsabilizo por danos causados a <strong>privacidade de outras pessoas</strong>.
 
 <p>
