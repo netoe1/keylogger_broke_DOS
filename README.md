@@ -1,4 +1,3 @@
-<h2 text-align="center">A simple broke keylogger, just for fun.</h2>
 <h1 text-align="center">A simple broke keylogger (DOS_VERSION), just for fun.</h1>
 
 
